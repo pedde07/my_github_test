@@ -3,7 +3,7 @@
   "description": "Just my first tests on GitHub and Packagist",
   "autoload": {
     "psr-4": {
-      "MyTestNameSpace": "src/"
+      "MyTestNameSpace\\": "src/"
     },
     "require": {
       
