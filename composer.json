@@ -1,0 +1,11 @@
+{
+  "name": "pedde07/my_github_test",
+  "description": "Just my first tests on GitHub and Packagist",
+  "autoload": " {
+    "psr-4": {
+      "MyTestNameSpace": "src/"
+    },
+    "require": {
+      
+    }
+}
