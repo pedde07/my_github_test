@@ -1,12 +1,12 @@
 {
   "name": "pedde07/my_github_test",
   "description": "Just my first tests on GitHub and Packagist",
+  "require": {
+    "php": "^7.2"
+  },
   "autoload": {
     "psr-4": {
       "MyTestNameSpace\\": "src/"
-    },
-    "require": {
-      
     }
   }
 }
